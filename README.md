@@ -4,14 +4,16 @@
 December 10, 2021.
 
 ### Project Title
-Aaron S's Post Your Work Assignment
+Post Your Work Project - bikeshare_2 improvements
 
 ### Description
-This project is the final project in the Programming for Data Science Nanodegree who's purpose is to demonstrate our newly learned Git skills
+Final Programming for Data Science Nanodegree -Git project
 
 ### Files used
-SQL_project_queries_rev
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 None.
-
