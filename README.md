@@ -4,7 +4,7 @@
 December 14, 2021.
 
 ### Project Title
-Aaron S's Post Your Work Assignment
+Final Project - Post Your Work Assignment
 
 ### Description
 This project is the final project in the Programming for Data Science Nanodegree who's purpose is to demonstrate our newly learned Git skills
